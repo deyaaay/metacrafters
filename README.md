@@ -9,8 +9,8 @@ Public variables for token details: token name, token abbreviation, total token 
 > A mint function to create new tokens.
 > A burn function to destroy existing tokens.
 > Both mint and burn functions take an address and a value as parameters. The burn function additionally checks that the address has a sufficient balance to burn the specified amount.
-#Getting Started
-#Executing the program
+# Getting Started
+# Executing the program
 This project can be run on any Ethereum network. The following steps outline how to compile and deploy the contract using the Remix IDE:
 1. Compile the Contract: Open Remix and load the SolidityToken.sol file. Compile the contract using Solidity version 0.8.18.
 2. Deploy the Contract: Deploy the MyToken contract on the Ethereum network of your choice.

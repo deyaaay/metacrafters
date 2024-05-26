@@ -6,7 +6,7 @@ This is a learning project in Solidity developed with the help of metacrafters.i
 The project includes a SolidityToken.sol file containing the MyToken contract, written in Solidity version 0.8.18. MyToken is a straightforward token contract with the following features:
 Public variables for token details: token name, token abbreviation, total token supply.
 - A mapping of addresses to token balances.
--A mint function to create new tokens.
+- A mint function to create new tokens.
 - A burn function to destroy existing tokens.
 - Both mint and burn functions take an address and a value as parameters. The burn function additionally checks that the address has a sufficient balance to burn the specified amount.
 # Getting Started

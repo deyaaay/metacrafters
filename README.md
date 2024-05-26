@@ -15,7 +15,7 @@ This project can be run on any Ethereum network. The following steps outline how
 1. Compile the Contract: Open Remix and load the SolidityToken.sol file. Compile the contract using Solidity version 0.8.18.
 2. Deploy the Contract: Deploy the MyToken contract on the Ethereum network of your choice.
 3. Interact with the Contract:
-  > Retrieve Token Details: Call the tokenName, tokenAbbr, and tokenSupply variables to get the token name ('Vijay'), token abbreviation ('Vj'), and total token supply (initially 0).
+  > Retrieve Token Details: Call the tokenName, tokenAbbr, and tokenSupply variables to get the token name, token abbreviation, and total token supply (initially 0).
   > Mint Tokens: Use the mint function with an address and value to increase the total token supply and the balance of the specified address.
   > Burn Tokens: Use the burn function with an address and value to decrease the total token supply and the balance of the specified address. Ensure the address has a sufficient balance before burning.
   > Verify Changes: Call the tokenSupply variable to confirm the changes in the total token supply after minting or burning tokens.

@@ -1,6 +1,6 @@
 # Metacrafters Solidity Token Project
 
-This is a learning project in Solidity developed with the help of Metacrafters.io. This project demonstrates a simple token contract without any advanced security features.
+This is a learning project in Solidity developed with the help of metacrafters.io. This project demonstrates a simple token contract without any advanced security features.
 
 # Description
 The project includes a SolidityToken.sol file containing the MyToken contract, written in Solidity version 0.8.18. MyToken is a straightforward token contract with the following features:
